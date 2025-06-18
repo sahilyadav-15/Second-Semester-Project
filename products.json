@@ -1,0 +1,402 @@
+[
+  {
+    "type": "physical",
+    "product_id": "P1001",
+    "name": "Laptop",
+    "price": 599.99,
+    "quantity_available": 10,
+    "weight": 2.5
+  },
+  {
+    "type": "digital",
+    "product_id": "D1001",
+    "name": "Antivirus Software",
+    "price": 29.99,
+    "quantity_available": 100,
+    "download_link": "http://example.com/antivirus"
+  },
+  {
+    "type": "physical",
+    "product_id": "P1002",
+    "name": "Wireless Mouse",
+    "price": 19.99,
+    "quantity_available": 50,
+    "weight": 0.1
+  },
+  {
+    "type": "digital",
+    "product_id": "D1002",
+    "name": "Photo Editing Software",
+    "price": 49.99,
+    "quantity_available": 200,
+    "download_link": "http://example.com/photoeditor"
+  },
+  {
+    "type": "physical",
+    "product_id": "P1003",
+    "name": "External Hard Drive",
+    "price": 89.99,
+    "quantity_available": 25,
+    "weight": 0.3
+  },
+  {
+    "type": "digital",
+    "product_id": "D1003",
+    "name": "Cloud Storage Plan",
+    "price": 9.99,
+    "quantity_available": 500,
+    "download_link": "http://example.com/cloudstorage"
+  },
+  {
+    "type": "physical",
+    "product_id": "P1004",
+    "name": "Gaming Keyboard",
+    "price": 79.99,
+    "quantity_available": 30,
+    "weight": 1.2
+  },
+  {
+    "type": "digital",
+    "product_id": "D1004",
+    "name": "Video Editing Software",
+    "price": 99.99,
+    "quantity_available": 150,
+    "download_link": "http://example.com/videoeditor"
+  },
+  {
+    "type": "physical",
+    "product_id": "P1005",
+    "name": "Monitor 24-inch",
+    "price": 149.99,
+    "quantity_available": 20,
+    "weight": 4.5
+  },
+  {
+    "type": "digital",
+    "product_id": "D1005",
+    "name": "Music Streaming Subscription",
+    "price": 12.99,
+    "quantity_available": 1000,
+    "download_link": "http://example.com/musicstream"
+  },
+  {
+    "type": "physical",
+    "product_id": "P1006",
+    "name": "USB-C Hub",
+    "price": 29.99,
+    "quantity_available": 40,
+    "weight": 0.2
+  },
+  {
+    "type": "digital",
+    "product_id": "D1006",
+    "name": "E-book Reader App",
+    "price": 4.99,
+    "quantity_available": 300,
+    "download_link": "http://example.com/ebookreader"
+  },
+  {
+    "type": "physical",
+    "product_id": "P1007",
+    "name": "Headphones",
+    "price": 59.99,
+    "quantity_available": 35,
+    "weight": 0.3
+  },
+  {
+    "type": "digital",
+    "product_id": "D1007",
+    "name": "Graphic Design Tool",
+    "price": 69.99,
+    "quantity_available": 120,
+    "download_link": "http://example.com/graphicdesign"
+  },
+  {
+    "type": "physical",
+    "product_id": "P1008",
+    "name": "Smartphone",
+    "price": 499.99,
+    "quantity_available": 15,
+    "weight": 0.2
+  },
+  {
+    "type": "digital",
+    "product_id": "D1008",
+    "name": "Online Course Platform",
+    "price": 199.99,
+    "quantity_available": 80,
+    "download_link": "http://example.com/onlinecourse"
+  },
+  {
+    "type": "physical",
+    "product_id": "P1009",
+    "name": "Tablet",
+    "price": 299.99,
+    "quantity_available": 12,
+    "weight": 0.5
+  },
+  {
+    "type": "digital",
+    "product_id": "D1009",
+    "name": "VPN Subscription",
+    "price": 5.99,
+    "quantity_available": 600,
+    "download_link": "http://example.com/vpn"
+  },
+  {
+    "type": "physical",
+    "product_id": "P1010",
+    "name": "Webcam",
+    "price": 39.99,
+    "quantity_available": 45,
+    "weight": 0.2
+  },
+  {
+    "type": "digital",
+    "product_id": "D1010",
+    "name": "Game Download",
+    "price": 59.99,
+    "quantity_available": 250,
+    "download_link": "http://example.com/game"
+  },
+  {
+    "type": "physical",
+    "product_id": "P1011",
+    "name": "Printer",
+    "price": 129.99,
+    "quantity_available": 8,
+    "weight": 5.0
+  },
+  {
+    "type": "digital",
+    "product_id": "D1011",
+    "name": "Productivity Suite",
+    "price": 89.99,
+    "quantity_available": 180,
+    "download_link": "http://example.com/productivity"
+  },
+  {
+    "type": "physical",
+    "product_id": "P1012",
+    "name": "Smart Watch",
+    "price": 199.99,
+    "quantity_available": 22,
+    "weight": 0.1
+  },
+  {
+    "type": "digital",
+    "product_id": "D1012",
+    "name": "Fitness App Subscription",
+    "price": 7.99,
+    "quantity_available": 400,
+    "download_link": "http://example.com/fitnessapp"
+  },
+  {
+    "type": "physical",
+    "product_id": "P1013",
+    "name": "Router",
+    "price": 69.99,
+    "quantity_available": 18,
+    "weight": 0.8
+  },
+  {
+    "type": "digital",
+    "product_id": "D1013",
+    "name": "Language Learning App",
+    "price": 14.99,
+    "quantity_available": 350,
+    "download_link": "http://example.com/languageapp"
+  },
+  {
+    "type": "physical",
+    "product_id": "P1014",
+    "name": "Speaker System",
+    "price": 99.99,
+    "quantity_available": 25,
+    "weight": 2.0
+  },
+  {
+    "type": "digital",
+    "product_id": "D1014",
+    "name": "Accounting Software",
+    "price": 129.99,
+    "quantity_available": 90,
+    "download_link": "http://example.com/accounting"
+  },
+  {
+    "type": "physical",
+    "product_id": "P1015",
+    "name": "Camera",
+    "price": 399.99,
+    "quantity_available": 10,
+    "weight": 0.7
+  },
+  {
+    "type": "digital",
+    "product_id": "D1015",
+    "name": "Meditation App",
+    "price": 6.99,
+    "quantity_available": 450,
+    "download_link": "http://example.com/meditation"
+  },
+  {
+    "type": "physical",
+    "product_id": "P1016",
+    "name": "Projector",
+    "price": 249.99,
+    "quantity_available": 15,
+    "weight": 3.5
+  },
+  {
+    "type": "digital",
+    "product_id": "D1016",
+    "name": "Web Hosting Plan",
+    "price": 19.99,
+    "quantity_available": 300,
+    "download_link": "http://example.com/webhosting"
+  },
+  {
+    "type": "physical",
+    "product_id": "P1017",
+    "name": "Desk Chair",
+    "price": 159.99,
+    "quantity_available": 20,
+    "weight": 10.0
+  },
+  {
+    "type": "digital",
+    "product_id": "D1017",
+    "name": "Stock Photo Subscription",
+    "price": 24.99,
+    "quantity_available": 200,
+    "download_link": "http://example.com/stockphotos"
+  },
+  {
+    "type": "physical",
+    "product_id": "P1018",
+    "name": "Microphone",
+    "price": 49.99,
+    "quantity_available": 30,
+    "weight": 0.4
+  },
+  {
+    "type": "digital",
+    "product_id": "D1018",
+    "name": "Podcast Editing Software",
+    "price": 39.99,
+    "quantity_available": 160,
+    "download_link": "http://example.com/podcasteditor"
+  },
+  {
+    "type": "physical",
+    "product_id": "P1019",
+    "name": "Fitness Tracker",
+    "price": 89.99,
+    "quantity_available": 40,
+    "weight": 0.05
+  },
+  {
+    "type": "digital",
+    "product_id": "D1019",
+    "name": "Virtual Event Platform",
+    "price": 149.99,
+    "quantity_available": 100,
+    "download_link": "http://example.com/virtualevent"
+  },
+  {
+    "type": "physical",
+    "product_id": "P1020",
+    "name": "Gaming Console",
+    "price": 399.99,
+    "quantity_available": 12,
+    "weight": 3.0
+  },
+  {
+    "type": "digital",
+    "product_id": "D1020",
+    "name": "Digital Art Tool",
+    "price": 34.99,
+    "quantity_available": 220,
+    "download_link": "http://example.com/digitalart"
+  },
+  {
+    "type": "physical",
+    "product_id": "P1021",
+    "name": "SSD Drive",
+    "price": 109.99,
+    "quantity_available": 28,
+    "weight": 0.1
+  },
+  {
+    "type": "digital",
+    "product_id": "D1021",
+    "name": "Cybersecurity Course",
+    "price": 79.99,
+    "quantity_available": 140,
+    "download_link": "http://example.com/cybersecurity"
+  },
+  {
+    "type": "physical",
+    "product_id": "P1022",
+    "name": "Smart Bulb",
+    "price": 14.99,
+    "quantity_available": 60,
+    "weight": 0.1
+  },
+  {
+    "type": "digital",
+    "product_id": "D1022",
+    "name": "Mobile Game App",
+    "price": 2.99,
+    "quantity_available": 800,
+    "download_link": "http://example.com/mobilegame"
+  },
+  {
+    "type": "physical",
+    "product_id": "P1023",
+    "name": "Laptop Stand",
+    "price": 29.99,
+    "quantity_available": 50,
+    "weight": 0.5
+  },
+  {
+    "type": "digital",
+    "product_id": "D1023",
+    "name": "Email Marketing Tool",
+    "price": 29.99,
+    "quantity_available": 250,
+    "download_link": "http://example.com/emailmarketing"
+  },
+  {
+    "type": "physical",
+    "product_id": "P1024",
+    "name": "Drone",
+    "price": 299.99,
+    "quantity_available": 10,
+    "weight": 1.5
+  },
+  {
+    "type": "digital",
+    "product_id": "D1024",
+    "name": "3D Modeling Software",
+    "price": 199.99,
+    "quantity_available": 110,
+    "download_link": "http://example.com/3dmodeling"
+  },
+  {
+    "type": "physical",
+    "product_id": "P1025",
+    "name": "Portable Charger",
+    "price": 24.99,
+    "quantity_available": 70,
+    "weight": 0.2
+  },
+  {
+    "type": "digital",
+    "product_id": "D1025",
+    "name": "Budgeting App",
+    "price": 3.99,
+    "quantity_available": 600,
+    "download_link": "http://example.com/budgeting"
+  }
+]
