@@ -40,7 +40,7 @@ class Product:
         self._quantity_available += amount
 
     def display_details(self):
-        return f"ID: {self._product_id}, Name: {self._name}, Price: ${self._price}, Stock: {self._quantity_available}"
+        return f"Name: {self._name}, ID: {self._product_id}, Price: ${self._price}, Stock: {self._quantity_available}"
 
     def to_dict(self):
         return {
@@ -80,7 +80,7 @@ class DigitalProduct(Product):
         return self._download_link
 
     def display_details(self):
-        return f"ID: {self._product_id}, Name: {self._name}, Price: ${self._price}, Download: {self._download_link}"
+        return f"Name: {self._name}, ID: {self._product_id}, Price: ${self._price}, Download: {self._download_link}"
 
     def to_dict(self):
         d = super().to_dict()
@@ -110,7 +110,7 @@ class CartItem:
         return self._product.price * self._quantity
 
     def __str__(self):
-        return f"Item: {self._product.name}, Quantity: {self._quantity}, Price: ${self._product.price}, Subtotal: ${self.calculate_subtotal()}"
+        return f"Item: {self._product.name}, ID: {self._product.product_id}, Quantity: {self._quantity}, Price: ${self._product.price}, Subtotal: ${self.calculate_subtotal()}"
 
     def to_dict(self):
         return {"product_id": self._product.product_id, "quantity": self._quantity}
